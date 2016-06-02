@@ -2,5 +2,5 @@
 
 int main() 
 {
-  printf("Hello Jenkins!\n");
+  printf("Jenkins Hello!\n");
 }
